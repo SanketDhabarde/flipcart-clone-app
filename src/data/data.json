@@ -5,7 +5,8 @@
         "price": "355",
         "size": "S",
         "id": "1",
-        "gender": "male"
+        "gender": "male",
+        "brand": "Aelomart"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/580/696/kph8h3k0/t-shirt/s/z/2/xl-pckplsgf983764-peter-england-original-imag3p8rgrs8rsrh.jpeg?q=50",
@@ -13,7 +14,8 @@
         "price": "649",
         "size": "M",
         "id": "2",
-        "gender": "male"
+        "gender": "male",
+        "brand": "HELMONT"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/880/1056/jwmfcsw0/t-shirt/p/f/d/xxl-awt1020ol-aelomart-original-imaf7qdtbzggxbpu.jpeg?q=50",
@@ -21,7 +23,8 @@
         "price": "449",
         "size": "M",
         "id": "3",
-        "gender": "male"
+        "gender": "male",
+        "brand": "Aelomart"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/580/696/knqd3m80/t-shirt/6/g/m/s-74744-0002-levi-s-original-imag2ccenkfshcnw.jpeg?q=50",
@@ -29,7 +32,8 @@
         "price": "352",
         "size": "L",
         "id": "4",
-        "gender": "female"
+        "gender": "female",
+        "brand": "Levi"
     },
     {
        "image": "https://rukminim1.flixcart.com/image/580/696/j66s3gw0/t-shirt/n/w/d/l-prwnavyblue-prwgreymilange-fleximaa-original-imaewztdzhghvtj8.jpeg?q=50",
@@ -37,7 +41,8 @@
         "price": "384",
         "size": "L",
         "id": "5",
-        "gender": "female"
+        "gender": "female",
+        "brand": "FLEXIMAA"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/880/1056/k66sh3k0/t-shirt/7/f/j/l-necktop-red-base-41-original-imafjp8sntbyhw9f.jpeg?q=50",
@@ -45,6 +50,7 @@
         "price": "269",
         "size": "S",
         "id": "6",
-        "gender": "female"
+        "gender": "female",
+        "brand": "FLEXIMAA"
     }
 ]

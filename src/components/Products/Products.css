@@ -1,4 +1,12 @@
+.products{
+    width: 100%;
+}
 .products__list{
     display: flex;
     flex-wrap: wrap;
+}
+.products__header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
 }
