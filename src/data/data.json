@@ -1,0 +1,50 @@
+[
+    {
+        "image": "https://rukminim1.flixcart.com/image/580/696/kjuby4w0/t-shirt/4/f/7/xl-fc4057-fastcolors-original-imafzbj56yxpkzzh.jpeg?q=50",
+        "name":"Solid Men Mandarin Collar White, Blue T-Shirt",
+        "price": "355",
+        "size": "S",
+        "id": "1",
+        "gender": "male"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/580/696/kph8h3k0/t-shirt/s/z/2/xl-pckplsgf983764-peter-england-original-imag3p8rgrs8rsrh.jpeg?q=50",
+        "name":"Solid Men Polo Neck Pink T-Shirt",
+        "price": "649",
+        "size": "M",
+        "id": "2",
+        "gender": "male"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/880/1056/jwmfcsw0/t-shirt/p/f/d/xxl-awt1020ol-aelomart-original-imaf7qdtbzggxbpu.jpeg?q=50",
+        "name":"Striped Men Round Neck Black, Light Green T-Shirt",
+        "price": "449",
+        "size": "M",
+        "id": "3",
+        "gender": "male"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/580/696/knqd3m80/t-shirt/6/g/m/s-74744-0002-levi-s-original-imag2ccenkfshcnw.jpeg?q=50",
+        "name":"Solid Women Round Neck Black T-Shirt",
+        "price": "352",
+        "size": "L",
+        "id": "4",
+        "gender": "female"
+    },
+    {
+       "image": "https://rukminim1.flixcart.com/image/580/696/j66s3gw0/t-shirt/n/w/d/l-prwnavyblue-prwgreymilange-fleximaa-original-imaewztdzhghvtj8.jpeg?q=50",
+        "name":"Printed Women Round Neck Multicolor T-Shirt",
+        "price": "384",
+        "size": "L",
+        "id": "5",
+        "gender": "female"
+    },
+    {
+        "image": "https://rukminim1.flixcart.com/image/880/1056/k66sh3k0/t-shirt/7/f/j/l-necktop-red-base-41-original-imafjp8sntbyhw9f.jpeg?q=50",
+        "name":"Solid Women Round Neck Red T-Shirt",
+        "price": "269",
+        "size": "S",
+        "id": "6",
+        "gender": "female"
+    }
+]
